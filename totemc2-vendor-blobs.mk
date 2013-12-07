@@ -152,10 +152,6 @@ PRODUCT_COPY_FILES += \
   vendor/htc/totemc2/proprietary/lib/libril-qc-qmi-1.so:system/lib/libril-qc-qmi-1.so \
   vendor/htc/totemc2/proprietary/lib/libril-qcril-hook-oem.so:system/lib/libril-qcril-hook-oem.so \
   vendor/htc/totemc2/proprietary/lib/hw/sensors.tc2.so:system/lib/hw/sensors.tc2.so \
-  vendor/htc/totemc2/proprietary/lib/libimu.so:system/lib/libimu.so \
-  vendor/htc/totemc2/proprietary/lib/libmllite.so:system/lib/libmllite.so \
-  vendor/htc/totemc2/proprietary/lib/libmlplatform.so:system/lib/libmlplatform.so \
-  vendor/htc/totemc2/proprietary/lib/libmpl.so:system/lib/libmpl.so \
   vendor/htc/totemc2/proprietary/lib/libwvm.so:system/lib/libwvm.so \
   vendor/htc/totemc2/proprietary/lib/libWVStreamControlAPI_L3.so:system/lib/libWVStreamControlAPI_L3.so \
   vendor/htc/totemc2/proprietary/etc/firmware/fw_bcm4334_p2p.bin:system/etc/firmware/fw_bcm4334_p2p.bin \
